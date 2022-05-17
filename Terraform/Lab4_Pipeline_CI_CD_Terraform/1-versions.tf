@@ -35,7 +35,7 @@ terraform {
       version = "= 2.98.0"
 
     }
-}
+  }
 }
 
 # Configure the Azure Provider
